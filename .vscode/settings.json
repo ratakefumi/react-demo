@@ -1,0 +1,28 @@
+{
+	"git.ignoreLimitWarning": true,
+	"editor.fontSize": 18,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.trailingComma": "all",
+	"javascript.implicitProjectConfig.experimentalDecorators": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"files.associations": {
+		"*.html": "html"
+	},
+	"emmet.showExpandedAbbreviation": "always",
+	"emmet.triggerExpansionOnTab": true,
+	"editor.foldingStrategy": "indentation",
+	"files.autoSave": "off",
+	"diffEditor.ignoreTrimWhitespace": true,
+	"css.validate": false,
+	"scss.validate": false,
+	"less.validate": false,
+	"stylelint.enable": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true,
+		"source.fixAll.stylelint": true
+	},
+	"typescript.tsdk": "node_modules/typescript/lib"
+}
